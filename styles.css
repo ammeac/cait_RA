@@ -1,0 +1,125 @@
+.a, .aa, .aaa {
+    background-color: rgb(17, 29, 53);
+    text-align:center ;
+    font-family: Comic sans;
+    color:white;
+    width: 900px;
+	height: 40px;
+}
+a:link {
+	color:white;
+    text-decoration: none;
+}
+a:hover.link {
+	color: white;
+	text-decoration: none;
+}
+a:active {
+	color:white;
+    text-decoration: none;
+}
+a:visited {
+	color:white;
+    text-decoration: none;
+	}
+#elem {
+     border-width: 2 px;
+     border-style: dashed;
+     border-color: rgb(5, 14, 5);
+     width: auto px;
+     height:none;
+}
+body {
+    height: auto px;
+    
+    background: linear-gradient(white, #7a7976);
+}
+.b{
+    padding-top: 0px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+#elem2 {
+    border-width: 5 px;
+    border-style:dotted;
+    border-color: rgb(5, 14, 5);
+    width: auto px;
+    height: 3px;;
+}
+P {
+text-indent: 2ch;
+    margin-left: 1rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.ykr {
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.ven {
+    margin: -15px;
+    text-indent: 5ch;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.gro {
+    margin: 15px;
+   padding: 7px;
+    text-indent: 4ch;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  
+}
+.krest {
+    padding: 7px;
+    text-indent: 5ch;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+
+}
+.pre {
+    text-indent: 5ch;
+    align-items: right;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.cc {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.cc2 {
+align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.cc3 {
+align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+
+#b2 {
+    align-items: left;
+    justify-content: left;
+    padding: 35px;
+    background-color: rgb(17, 29, 53) ;
+    color:white;
+    font-family:  Comic sans;
+    line-height: 45px;
+}

@@ -1,0 +1,113 @@
+.a, .aa, .aaa {
+    background-color: rgb(17, 29, 53);
+    text-align:center ;
+    font-family: Comic sans;
+    color:white;
+    width: 900px;
+	height: 40px;
+}
+a:link {
+	color:white;
+    text-decoration: none;
+}
+a:hover.link {
+	color: white;
+	text-decoration: none;
+}
+a:active {
+	color:white;
+    text-decoration: none;
+}
+a:visited {
+	color:white;
+    text-decoration: none;
+	}
+#elem {
+     border-width: 2 px;
+     border-style: dashed;
+     border-color: rgb(5, 14, 5);
+     width: auto px;
+     height:none;
+}
+body {
+    height:auto px;
+    
+    background: linear-gradient(white, #7a7976);
+}
+.b{
+    padding-top: 0px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+#elem2 {
+    border-width: 5 px;
+    border-style:dotted;
+    border-color: rgb(5, 14, 5);
+    width: auto px;
+    height: 3px;;
+}
+P {
+text-indent: 2ch;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#elem6 {
+    width: 445px;
+height: 300px;
+border: 1px solid rgb(50, 50, 134);
+background-color: rgb(50, 50, 134);
+color: white;
+margin: 20px;
+border-right-width:1250px ;
+align-items: center;
+justify-content: center;
+line-height: 30px;
+padding: 80px;
+border-radius: 50px;
+}
+
+.ykr {
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.yk {
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    margin: 30px;
+    border-radius: 30px;
+    box-shadow:1px 1px 15px 1px
+}
+.po {
+ justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.d, .dd, .ddd {
+    background-color: rgb(17, 29, 53);
+    text-align:left ;
+    font-family: Comic sans;
+    color:white;
+    width: auto;
+	height: 55px;
+    font-size:20px;
+    text-indent: 40px;
+}
+#b2 {
+    align-items: left;
+    justify-content: left;
+    padding: 35px;
+    background-color: rgb(17, 29, 53) ;
+    color:white;
+    font-family:  Comic sans;
+    line-height: 45px;
+}
