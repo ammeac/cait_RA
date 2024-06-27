@@ -54,9 +54,9 @@ text-indent: 2ch;
 }
 
 #elem6 {
-width: 1200px;
+width: 90%;
 height: 300px;
-border: 1px solid rgb(50, 50, 134);
+
 background-color: rgb(50, 50, 134);
 color: white;
 margin: 20px;
@@ -67,6 +67,7 @@ line-height: 30px;
 padding: 80px;
 border-radius: 50px;
 display: flex;
+z-index: 5px;
 }
 
 .ykr {
