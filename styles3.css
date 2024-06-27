@@ -33,7 +33,9 @@ body {
     height:auto px;
     
     background: linear-gradient(white, #804343);
+    
 }
+
 .b{
     padding-top: 0px;
     padding-bottom: 5px;
@@ -54,7 +56,6 @@ text-indent: 2ch;
 }
 
 #elem6 {
-width: 90%;
 height: 300px;
 
 background-color: rgb(50, 50, 134);
